@@ -3,7 +3,6 @@ import requests
 import PIL
 from PIL import Image
 from io import BytesIO
-import matplotlib.pyplot as plt
 import google.generativeai as genai
 import json
 
